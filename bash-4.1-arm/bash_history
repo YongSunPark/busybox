@@ -1,0 +1,132 @@
+set
+cd /mnt/sdcard/bash/
+busybox vi bashrc
+echo $PATH
+ls -G /mnt/sdcard
+ls --color=tty
+which ls
+man ls
+ls --help
+busybox vi bashrc 
+source bashrc 
+busybox vi bashrc
+set
+set | les
+set | busybox more
+busybox vi bashrc
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+source bashrc
+busybox vi bashrc
+su
+whoami
+dfsdsf
+ls
+ls -l
+busybox vi bashrc
+busybox vi bashrc
+source bashrc 
+hostname
+echo $HOSTNAME
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+busybox vi bashrc
+source bashrc 
+vim bashrc
+busybox vi bashrc
+echo $UID
+busybox vi bashrc
+id -u
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+source bashrc 
+busybox vi bashrc
+source bashrc 
+source bashrc 
+busybox vi bashrc
+source bashrc 
+busybox vim bash_profile 
+busybox vi bash_profile 
+su bluetooth
+set | busybox more
+busybox vi bashrc 
+source bashrc 
+echo $SHELL
+getprop
+getprop | busybox more
+getprop | busybox more
+getprop | busybox grep sh
+getprop | busybox grep shell
+getprop | busybox grep bin
+getprop | busybox more
+set | grep USE
+set | busybox grep USE
+set | busybox more
+echo $HOME
+cd /system/etc/
+ls -l
+ls -l *sh
+busybox find . -name "*sh" -print
+cd /mnt/sdcard/bash/
+busybox vi bashrc
+source bashrc
+ls -l
+ls 
+vi bashrc
+source bashrc
+ls -l
+vi bashrc
+source bashrc
+ls -l
+more bash_history 
+vi bashrc
+source bashrc
+more bash_history 
+busybox --help
+busybox whoami
+alias
+cd /mnt/sdcard/
+ls -l
+rm -r bash 
+ls -l
+set
+source /system/etc/bash/bashrc 
+pwd
+cd /system/etc/
+pwd
+cd /mnt/sdcard/
+ls -l
+ls -l /system/xbin/
+cp busybox /system/xbin/busybox2
+cd /system/xbin/
+ls -l
+./busybox2 ls --color -l
+busybox ls --help
+ls -n
+ls -ln
+ls -l
+su - bluetooth
+/system/xbin/busybox ls --help
+/system/xbin/busybox2 ls --help
+cd /system/xbin/
+rm busybox2
+/mnt/sdcard/busybox
+cp /mnt/sdcard/busybox /system/xbin/busybox2
+cd /system/xbin
+ls -l
+./busybox2
+./busybox ls --help
+/system/xbin/busybox2 ls
+/system/xbin/busybox2 ls -l
+alias
+busybox vi --help
+busybox2 vi --help
+busybox2 
+busybox vi /mnt/sdcard/system.sh 
